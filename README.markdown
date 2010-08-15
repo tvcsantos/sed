@@ -15,11 +15,11 @@ Install
 =====
 Just use one of the installers below according to your OS
 
-[http://dl.getdropbox.com/u/230863/sed_unix_0_1.sh](http://dl.getdropbox.com/u/230863/sed_unix_0_1.sh)
+[http://dl.getdropbox.com/u/230863/sed_unix_0_5.sh](http://dl.getdropbox.com/u/230863/sed_unix_0_5.sh)
 
-[http://dl.getdropbox.com/u/230863/sed_windows_0_1.exe](http://dl.getdropbox.com/u/230863/sed_windows_0_1.exe)
+[http://dl.getdropbox.com/u/230863/sed_windows_0_5.exe](http://dl.getdropbox.com/u/230863/sed_windows_0_5.exe)
 
-[http://dl.getdropbox.com/u/230863/sed_macos_0_1.dmg](http://dl.getdropbox.com/u/230863/sed_macos_0_1.dmg)
+[http://dl.getdropbox.com/u/230863/sed_macos_0_5.dmg](http://dl.getdropbox.com/u/230863/sed_macos_0_5.dmg)
 
 Usage
 =====
@@ -36,9 +36,9 @@ Git repository located at
 
 License
 =======
-    Upload Chekcer - Simple Java Swing application to check encodes
-    for DXVA and Awesome compliancy based on their MediaInfo output.
-    Copyright (C) 2009  Tiago Santos
+    Subtitle Episode Downloader - Simple Java Swing application to check
+    periodicaly for subtitles for tv show files that are in a specified directory.
+    Copyright (C) 2010  Tiago Santos
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
