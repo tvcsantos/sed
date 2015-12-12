@@ -28,10 +28,10 @@ configure the app, minimize it to try and have fun :P
 
 Developed By
 ============
-* Tiago Santos - <camon.pt@gmail.com>
+* Tiago Santos - <tvcsantos@gmail.com>
 
 Git repository located at
-[github.com/camon/sed/](http://github.com/camon/sed/)
+[github.com/tvcsantos/sed/](http://github.com/tvcsantos/sed/)
 
 
 License
