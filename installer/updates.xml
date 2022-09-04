@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<updateDescriptor baseUrl="">
+  <entry targetMediaFileId="21" updatableVersionMin="" updatableVersionMax="" fileName="sed_windows_0_5.exe" newVersion="0.5" newMediaFileId="21" fileSize="19292160" bundledJre="" archive="false">
+    <comment />
+  </entry>
+  <entry targetMediaFileId="22" updatableVersionMin="" updatableVersionMax="" fileName="sed_unix_0_5.sh" newVersion="0.5" newMediaFileId="22" fileSize="18556087" bundledJre="" archive="false">
+    <comment />
+  </entry>
+  <entry targetMediaFileId="23" updatableVersionMin="" updatableVersionMax="" fileName="sed_macos_0_5.dmg" newVersion="0.5" newMediaFileId="23" fileSize="18962432" bundledJre="" archive="false">
+    <comment />
+  </entry>
+</updateDescriptor>
+

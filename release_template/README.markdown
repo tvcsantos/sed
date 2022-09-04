@@ -1,32 +1,28 @@
-# sed
+About
+=====
+`Subtitle Episode Downloader` is a simple Java desktop application based 
+on Swing Application Framework to check periodically for subtitles for tv
+show files that are in a specified directory
 
-> ⚠️ This project was developed in 2010 and is no longer maintained ⚠️
+Version
+=====
+0.5
 
-![](https://img.shields.io/badge/java-1.5-blue)
+* beta stage of the app
+* need further testing
 
-`Subtitle Episode Downloader` (or `sed` for short) is a simple Java desktop
-application based on Swing Application Framework to check periodically for
-subtitles for tv show files that are in a specified directory.
+Developed By
+============
+* Tiago Santos - <tvcsantos@gmail.com>
 
-## Usage
+Git repository located at
+[github.com/tvcsantos/sed/](https://github.com/tvcsantos/sed/)
 
-If you want to execute the pre-compiled version you can do it by issuing the
-following commands:
 
-```shell
-make create-release
-cd release
-java -jar sed.jar
-```
-
-For more information on the project refer to
-[here](release_template/README.markdown).
-
-## License
-
+License
+=======
     Subtitle Episode Downloader - Simple Java Swing application to check
-    periodically for subtitles for tv show files that are in a specified
-    directory.
+    periodically for subtitles for tv show files that are in a specified directory.
     Copyright (C) 2010  Tiago Santos
 
     This program is free software: you can redistribute it and/or modify
@@ -41,5 +37,3 @@ For more information on the project refer to
 
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
-
-For the full license text refer to [LICENSE.md](LICENSE.md)
